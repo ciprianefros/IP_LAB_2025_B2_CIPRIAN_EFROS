@@ -1,0 +1,309 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\FII\\Semestrul IV\\Ingineria Programarii\\IP_LAB\\Lab1\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{028ED542-AD3D-405C-AAF2-F5530DF39C88}|Lab1.vcxproj|D:\\FII\\Semestrul IV\\Ingineria Programarii\\IP_LAB\\Lab1\\Lab1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{028ED542-AD3D-405C-AAF2-F5530DF39C88}|Lab1.vcxproj|solutionrelative:Lab1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{028ED542-AD3D-405C-AAF2-F5530DF39C88}|Lab1.vcxproj|D:\\FII\\Semestrul IV\\Ingineria Programarii\\IP_LAB\\Lab1\\OnlineCustomer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{028ED542-AD3D-405C-AAF2-F5530DF39C88}|Lab1.vcxproj|solutionrelative:OnlineCustomer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{028ED542-AD3D-405C-AAF2-F5530DF39C88}|Lab1.vcxproj|D:\\FII\\Semestrul IV\\Ingineria Programarii\\IP_LAB\\Lab1\\InStoreCustomer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{028ED542-AD3D-405C-AAF2-F5530DF39C88}|Lab1.vcxproj|solutionrelative:InStoreCustomer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{028ED542-AD3D-405C-AAF2-F5530DF39C88}|Lab1.vcxproj|D:\\FII\\Semestrul IV\\Ingineria Programarii\\IP_LAB\\Lab1\\Customer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{028ED542-AD3D-405C-AAF2-F5530DF39C88}|Lab1.vcxproj|solutionrelative:Customer.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{028ED542-AD3D-405C-AAF2-F5530DF39C88}|Lab1.vcxproj|D:\\FII\\Semestrul IV\\Ingineria Programarii\\IP_LAB\\Lab1\\Product.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{028ED542-AD3D-405C-AAF2-F5530DF39C88}|Lab1.vcxproj|solutionrelative:Product.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{028ED542-AD3D-405C-AAF2-F5530DF39C88}|Lab1.vcxproj|D:\\FII\\Semestrul IV\\Ingineria Programarii\\IP_LAB\\Lab1\\Basket.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{028ED542-AD3D-405C-AAF2-F5530DF39C88}|Lab1.vcxproj|solutionrelative:Basket.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{028ED542-AD3D-405C-AAF2-F5530DF39C88}|Lab1.vcxproj|D:\\FII\\Semestrul IV\\Ingineria Programarii\\IP_LAB\\Lab1\\OnlineCustomer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{028ED542-AD3D-405C-AAF2-F5530DF39C88}|Lab1.vcxproj|solutionrelative:OnlineCustomer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{028ED542-AD3D-405C-AAF2-F5530DF39C88}|Lab1.vcxproj|D:\\FII\\Semestrul IV\\Ingineria Programarii\\IP_LAB\\Lab1\\InStoreCustomer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{028ED542-AD3D-405C-AAF2-F5530DF39C88}|Lab1.vcxproj|solutionrelative:InStoreCustomer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{028ED542-AD3D-405C-AAF2-F5530DF39C88}|Lab1.vcxproj|D:\\FII\\Semestrul IV\\Ingineria Programarii\\IP_LAB\\Lab1\\Groceries.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{028ED542-AD3D-405C-AAF2-F5530DF39C88}|Lab1.vcxproj|solutionrelative:Groceries.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{028ED542-AD3D-405C-AAF2-F5530DF39C88}|Lab1.vcxproj|D:\\FII\\Semestrul IV\\Ingineria Programarii\\IP_LAB\\Lab1\\Gardening.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{028ED542-AD3D-405C-AAF2-F5530DF39C88}|Lab1.vcxproj|solutionrelative:Gardening.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{028ED542-AD3D-405C-AAF2-F5530DF39C88}|Lab1.vcxproj|D:\\FII\\Semestrul IV\\Ingineria Programarii\\IP_LAB\\Lab1\\Electronics.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{028ED542-AD3D-405C-AAF2-F5530DF39C88}|Lab1.vcxproj|solutionrelative:Electronics.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{028ED542-AD3D-405C-AAF2-F5530DF39C88}|Lab1.vcxproj|D:\\FII\\Semestrul IV\\Ingineria Programarii\\IP_LAB\\Lab1\\Product.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{028ED542-AD3D-405C-AAF2-F5530DF39C88}|Lab1.vcxproj|solutionrelative:Product.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{028ED542-AD3D-405C-AAF2-F5530DF39C88}|Lab1.vcxproj|D:\\FII\\Semestrul IV\\Ingineria Programarii\\IP_LAB\\Lab1\\Basket.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{028ED542-AD3D-405C-AAF2-F5530DF39C88}|Lab1.vcxproj|solutionrelative:Basket.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{028ED542-AD3D-405C-AAF2-F5530DF39C88}|Lab1.vcxproj|D:\\FII\\Semestrul IV\\Ingineria Programarii\\IP_LAB\\Lab1\\Groceries.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{028ED542-AD3D-405C-AAF2-F5530DF39C88}|Lab1.vcxproj|solutionrelative:Groceries.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{028ED542-AD3D-405C-AAF2-F5530DF39C88}|Lab1.vcxproj|D:\\FII\\Semestrul IV\\Ingineria Programarii\\IP_LAB\\Lab1\\Gardening.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{028ED542-AD3D-405C-AAF2-F5530DF39C88}|Lab1.vcxproj|solutionrelative:Gardening.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{028ED542-AD3D-405C-AAF2-F5530DF39C88}|Lab1.vcxproj|D:\\FII\\Semestrul IV\\Ingineria Programarii\\IP_LAB\\Lab1\\Electronics.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{028ED542-AD3D-405C-AAF2-F5530DF39C88}|Lab1.vcxproj|solutionrelative:Electronics.h||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{028ED542-AD3D-405C-AAF2-F5530DF39C88}|Lab1.vcxproj|D:\\FII\\Semestrul IV\\Ingineria Programarii\\IP_LAB\\Lab1\\Customer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{028ED542-AD3D-405C-AAF2-F5530DF39C88}|Lab1.vcxproj|solutionrelative:Customer.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Lab1.cpp",
+              "DocumentMoniker": "D:\\FII\\Semestrul IV\\Ingineria Programarii\\IP_LAB\\Lab1\\Lab1.cpp",
+              "RelativeDocumentMoniker": "Lab1.cpp",
+              "ToolTip": "D:\\FII\\Semestrul IV\\Ingineria Programarii\\IP_LAB\\Lab1\\Lab1.cpp",
+              "RelativeToolTip": "Lab1.cpp",
+              "ViewState": "AgIAABIAAAAAAAAAAAAqwCAAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-25T06:17:57.044Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "InStoreCustomer.h",
+              "DocumentMoniker": "D:\\FII\\Semestrul IV\\Ingineria Programarii\\IP_LAB\\Lab1\\InStoreCustomer.h",
+              "RelativeDocumentMoniker": "InStoreCustomer.h",
+              "ToolTip": "D:\\FII\\Semestrul IV\\Ingineria Programarii\\IP_LAB\\Lab1\\InStoreCustomer.h",
+              "RelativeToolTip": "InStoreCustomer.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-25T06:54:39.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Product.h",
+              "DocumentMoniker": "D:\\FII\\Semestrul IV\\Ingineria Programarii\\IP_LAB\\Lab1\\Product.h",
+              "RelativeDocumentMoniker": "Product.h",
+              "ToolTip": "D:\\FII\\Semestrul IV\\Ingineria Programarii\\IP_LAB\\Lab1\\Product.h",
+              "RelativeToolTip": "Product.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-25T06:33:46.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Groceries.cpp",
+              "DocumentMoniker": "D:\\FII\\Semestrul IV\\Ingineria Programarii\\IP_LAB\\Lab1\\Groceries.cpp",
+              "RelativeDocumentMoniker": "Groceries.cpp",
+              "ToolTip": "D:\\FII\\Semestrul IV\\Ingineria Programarii\\IP_LAB\\Lab1\\Groceries.cpp",
+              "RelativeToolTip": "Groceries.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-25T06:48:52.499Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Basket.h",
+              "DocumentMoniker": "D:\\FII\\Semestrul IV\\Ingineria Programarii\\IP_LAB\\Lab1\\Basket.h",
+              "RelativeDocumentMoniker": "Basket.h",
+              "ToolTip": "D:\\FII\\Semestrul IV\\Ingineria Programarii\\IP_LAB\\Lab1\\Basket.h",
+              "RelativeToolTip": "Basket.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-25T07:04:12.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Customer.h",
+              "DocumentMoniker": "D:\\FII\\Semestrul IV\\Ingineria Programarii\\IP_LAB\\Lab1\\Customer.h",
+              "RelativeDocumentMoniker": "Customer.h",
+              "ToolTip": "D:\\FII\\Semestrul IV\\Ingineria Programarii\\IP_LAB\\Lab1\\Customer.h",
+              "RelativeToolTip": "Customer.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-25T06:54:09.864Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OnlineCustomer.h",
+              "DocumentMoniker": "D:\\FII\\Semestrul IV\\Ingineria Programarii\\IP_LAB\\Lab1\\OnlineCustomer.h",
+              "RelativeDocumentMoniker": "OnlineCustomer.h",
+              "ToolTip": "D:\\FII\\Semestrul IV\\Ingineria Programarii\\IP_LAB\\Lab1\\OnlineCustomer.h",
+              "RelativeToolTip": "OnlineCustomer.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-25T06:54:20.569Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "OnlineCustomer.cpp",
+              "DocumentMoniker": "D:\\FII\\Semestrul IV\\Ingineria Programarii\\IP_LAB\\Lab1\\OnlineCustomer.cpp",
+              "RelativeDocumentMoniker": "OnlineCustomer.cpp",
+              "ToolTip": "D:\\FII\\Semestrul IV\\Ingineria Programarii\\IP_LAB\\Lab1\\OnlineCustomer.cpp",
+              "RelativeToolTip": "OnlineCustomer.cpp",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAABoAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-25T07:25:08.879Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "InStoreCustomer.cpp",
+              "DocumentMoniker": "D:\\FII\\Semestrul IV\\Ingineria Programarii\\IP_LAB\\Lab1\\InStoreCustomer.cpp",
+              "RelativeDocumentMoniker": "InStoreCustomer.cpp",
+              "ToolTip": "D:\\FII\\Semestrul IV\\Ingineria Programarii\\IP_LAB\\Lab1\\InStoreCustomer.cpp",
+              "RelativeToolTip": "InStoreCustomer.cpp",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAAABwAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-25T07:12:29.986Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Gardening.cpp",
+              "DocumentMoniker": "D:\\FII\\Semestrul IV\\Ingineria Programarii\\IP_LAB\\Lab1\\Gardening.cpp",
+              "RelativeDocumentMoniker": "Gardening.cpp",
+              "ToolTip": "D:\\FII\\Semestrul IV\\Ingineria Programarii\\IP_LAB\\Lab1\\Gardening.cpp",
+              "RelativeToolTip": "Gardening.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-25T06:49:23.562Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Electronics.cpp",
+              "DocumentMoniker": "D:\\FII\\Semestrul IV\\Ingineria Programarii\\IP_LAB\\Lab1\\Electronics.cpp",
+              "RelativeDocumentMoniker": "Electronics.cpp",
+              "ToolTip": "D:\\FII\\Semestrul IV\\Ingineria Programarii\\IP_LAB\\Lab1\\Electronics.cpp",
+              "RelativeToolTip": "Electronics.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-25T06:48:59.093Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Product.cpp",
+              "DocumentMoniker": "D:\\FII\\Semestrul IV\\Ingineria Programarii\\IP_LAB\\Lab1\\Product.cpp",
+              "RelativeDocumentMoniker": "Product.cpp",
+              "ToolTip": "D:\\FII\\Semestrul IV\\Ingineria Programarii\\IP_LAB\\Lab1\\Product.cpp",
+              "RelativeToolTip": "Product.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-25T06:40:21.556Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Basket.cpp",
+              "DocumentMoniker": "D:\\FII\\Semestrul IV\\Ingineria Programarii\\IP_LAB\\Lab1\\Basket.cpp",
+              "RelativeDocumentMoniker": "Basket.cpp",
+              "ToolTip": "D:\\FII\\Semestrul IV\\Ingineria Programarii\\IP_LAB\\Lab1\\Basket.cpp",
+              "RelativeToolTip": "Basket.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAABcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-25T07:07:33.166Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "Groceries.h",
+              "DocumentMoniker": "D:\\FII\\Semestrul IV\\Ingineria Programarii\\IP_LAB\\Lab1\\Groceries.h",
+              "RelativeDocumentMoniker": "Groceries.h",
+              "ToolTip": "D:\\FII\\Semestrul IV\\Ingineria Programarii\\IP_LAB\\Lab1\\Groceries.h",
+              "RelativeToolTip": "Groceries.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-25T06:34:38.386Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Gardening.h",
+              "DocumentMoniker": "D:\\FII\\Semestrul IV\\Ingineria Programarii\\IP_LAB\\Lab1\\Gardening.h",
+              "RelativeDocumentMoniker": "Gardening.h",
+              "ToolTip": "D:\\FII\\Semestrul IV\\Ingineria Programarii\\IP_LAB\\Lab1\\Gardening.h",
+              "RelativeToolTip": "Gardening.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-25T06:34:25.197Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Electronics.h",
+              "DocumentMoniker": "D:\\FII\\Semestrul IV\\Ingineria Programarii\\IP_LAB\\Lab1\\Electronics.h",
+              "RelativeDocumentMoniker": "Electronics.h",
+              "ToolTip": "D:\\FII\\Semestrul IV\\Ingineria Programarii\\IP_LAB\\Lab1\\Electronics.h",
+              "RelativeToolTip": "Electronics.h",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000680|",
+              "WhenOpened": "2025-02-25T06:34:05.029Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Customer.cpp",
+              "DocumentMoniker": "D:\\FII\\Semestrul IV\\Ingineria Programarii\\IP_LAB\\Lab1\\Customer.cpp",
+              "RelativeDocumentMoniker": "Customer.cpp",
+              "ToolTip": "D:\\FII\\Semestrul IV\\Ingineria Programarii\\IP_LAB\\Lab1\\Customer.cpp",
+              "RelativeToolTip": "Customer.cpp",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAAABoAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-02-25T07:11:37.196Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
